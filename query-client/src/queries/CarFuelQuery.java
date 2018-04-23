@@ -1,18 +1,13 @@
 package queries;
 import java.io.File;
 import java.io.IOException;
- 
 import java.nio.charset.Charset;
 import java.util.ArrayList;
-
 import java.util.List;
- 
 
-import org.apache.commons.csv.CSVFormat;
-import org.apache.commons.csv.CSVParser;
-import org.apache.commons.csv.CSVRecord;
-
- 
+import commonscsv.org.apache.commons.csv.CSVFormat;
+import commonscsv.org.apache.commons.csv.CSVParser;
+import commonscsv.org.apache.commons.csv.CSVRecord;
 import model.CarFuel;
 
  
