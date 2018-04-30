@@ -1,6 +1,6 @@
 package client;
 
-import java.io.File;
+
 import java.rmi.Naming;
  
 import java.rmi.RemoteException;
